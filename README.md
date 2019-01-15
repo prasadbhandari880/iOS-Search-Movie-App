@@ -1,2 +1,2 @@
 # Search-MyMovie-Sample-App
-Uploading files
+Tech Stack - iOS Sample App
